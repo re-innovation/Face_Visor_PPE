@@ -5,10 +5,10 @@ This is a repository for keeping track of design changes.
 
 This is not my work: This has been designed with the involvement:
 
-https://twitter.com/chickengrylls
-Sean Drummond (of Kitronik)
-https://www.kitronik.co.uk/
-https://smokeandmirrors.store/
+* https://twitter.com/chickengrylls
+* Sean Drummond 
+* https://www.kitronik.co.uk/
+* https://smokeandmirrors.store/
 
 
 Please see these links for more information:

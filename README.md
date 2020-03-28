@@ -10,7 +10,7 @@ This is not my work! This has been designed with the involvement of:
 * https://www.kitronik.co.uk/
 * https://smokeandmirrors.store/
 * https://nottinghack.org.uk/
-
+* Plus lots of others!!! Feel free to send a request to get this list updated!
 
 Please see these links for more information:
 

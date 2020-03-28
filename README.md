@@ -3,7 +3,7 @@ A simple laser cut face visor for use as PPE for COIVD-19 virus
 
 This is a repository for keeping track of design changes.
 
-This is not my work: This has been designed with the involvement:
+This is not my work! This has been designed with the involvement of:
 
 * https://twitter.com/chickengrylls
 * Sean Drummond 

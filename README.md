@@ -9,6 +9,7 @@ This is not my work! This has been designed with the involvement of:
 * Sean Drummond 
 * https://www.kitronik.co.uk/
 * https://smokeandmirrors.store/
+* https://nottinghack.org.uk/
 
 
 Please see these links for more information:
